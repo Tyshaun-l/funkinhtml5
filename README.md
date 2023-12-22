@@ -8,3 +8,6 @@ check out the actual source code for the game [here](https://github.com/ninjamuf
 
 # modding
 to load mods clone this repo and install mods how you would in the standalone version
+
+# contact
+if you want me to add stuff to it add me on discord: i_kill_my_opps.
